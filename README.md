@@ -1,1 +1,1 @@
-# ping-pong
+The game is supposed to be played by 2 players. One controls the left paltform and the other one the right platform. They have to keep the ball moving and it isn't supposed to be past one of the platforms. Who doesn't catch the ball, loses. It's an alternative of a ping-pong game.
